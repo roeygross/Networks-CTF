@@ -1,4 +1,4 @@
-# VERY COOL NETWORKS CTF!
+# Hit & Run - NETWORKS CTF
 This CTF deals with the following: 
 TLS, SSLKEYLOG, Certificates, Crypto, HTTP, TCP, Wireshark, Nmap, Sockets, Python, Browser\Scapy.
 
