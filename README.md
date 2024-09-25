@@ -1,6 +1,6 @@
 # VERY COOL NETWORKS CTF!
 
-The CTF deals with the following: 
+This CTF deals with the following: 
 TLS, SSLKEYLOG, Certificates, Crypto, HTTP, TCP, Wireshark, Nmap, Sockets, Python, Browser\Scapy.
 
 Open starting point, read the story and start solving!
